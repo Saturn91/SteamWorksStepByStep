@@ -106,7 +106,7 @@ myWindows.zip
 ```
 
 ```
-myLinux
+myLinux.zip
  |--run.sh
  |--libs (just an example)
       |...
