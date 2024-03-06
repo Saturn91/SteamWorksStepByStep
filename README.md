@@ -87,7 +87,8 @@ I left the rest as is (default)
 
 
 ## Actually uploading builds
-1. . Now we can upload a new build for this click the bellow marked "here"
+1. Navigate again to the steampipe tab, select the option builds this time
+2. Now we can upload a new build for this click the bellow marked "here"
 
 ![upload here](images/uploadBuildHere.png)
 
